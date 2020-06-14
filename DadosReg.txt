@@ -1,0 +1,6 @@
+Doses	Brix	PesoSecoFolhas	PesoSecoFrutos	RaizesFinas	MatOrg2	CarbonoOrg2
+0	11.6	1.64	0.24	0.233	0.2	0.866
+2.5	12.8	2.78	2.2	0.96	2	1.144
+5	14.6	3.66	3.9	1.82	2.3	1.126
+7.5	11	4.22	3.4	1.36	2.24	1.448
+10	10.4	4.6	1.9	2.2	2.094	1.424
